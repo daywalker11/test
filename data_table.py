@@ -31,7 +31,7 @@ class Table:
     def select(self, query):
         pass
 
-
+#commentary
 class Columen:
     def __init__(self, meta_columen_table):
         self.meta_columen_table=meta_columen_table
